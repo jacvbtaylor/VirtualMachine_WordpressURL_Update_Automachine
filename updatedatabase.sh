@@ -1,4 +1,6 @@
 #!/bin/bash
+#this script is used to update wordpress URL for CTF as a virtual machine in tryhackme  
+#by @jacvbtaylor
 #change enp0s3 to your appropiate network
 
 sql_statement()
